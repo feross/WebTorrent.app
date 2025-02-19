@@ -28,7 +28,7 @@
     "auto-launch": "5.0.5",
     "bitfield": "4.1.0",
     "capture-frame": "4.0.0",
-    "chokidar": "3.5.3",
+    "chokidar": "4.0.3",
     "chromecasts": "1.10.2",
     "create-torrent": "5.0.9",
     "debounce": "1.2.1",
