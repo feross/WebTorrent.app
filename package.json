@@ -24,7 +24,7 @@
     "@electron/remote": "2.1.2",
     "airplayer": "github:webtorrent/airplayer#fix-security",
     "application-config": "2.0.0",
-    "arch": "2.2.0",
+    "arch": "3.0.0",
     "auto-launch": "5.0.5",
     "bitfield": "4.1.0",
     "capture-frame": "4.0.0",
