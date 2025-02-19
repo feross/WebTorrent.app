@@ -64,7 +64,7 @@
     "@babel/plugin-transform-react-jsx": "7.25.9",
     "cross-zip": "4.0.0",
     "depcheck": "1.4.7",
-    "electron": "27.3.11",
+    "electron": "34.2.0",
     "electron-notarize": "1.2.2",
     "electron-osx-sign": "0.6.0",
     "electron-packager": "17.1.2",
