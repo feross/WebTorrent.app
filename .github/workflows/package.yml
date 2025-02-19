@@ -17,7 +17,7 @@ jobs:
           ${{ runner.os }}-node-
     - run: npm install
     - run: npm run package -- linux
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: linux
         path: |
@@ -39,7 +39,7 @@ jobs:
           ${{ runner.os }}-node-
     - run: npm install
     - run: npm run package -- darwin
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: macos
         path: |
@@ -60,7 +60,7 @@ jobs:
           ${{ runner.os }}-node-
     - run: npm install
     - run: npm run package -- win32
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: windows
         path: |
